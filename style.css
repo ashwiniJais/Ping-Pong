@@ -1,0 +1,24 @@
+.my_div{
+    width:100%;
+    height:100vh;
+    background-color:#0bd894;
+    display:grid;
+    place-items:center;
+}
+
+#myCanvas{
+    
+    border:1px solid white;
+
+}
+
+button{
+    padding:10px;
+    font-size:1.2rem;
+    border-radius: 7%;
+}
+button:hover{
+    font-size:1.3rem;
+    
+    opacity:0.5;
+}
